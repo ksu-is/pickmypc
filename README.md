@@ -9,5 +9,5 @@ It would work well in an algorithm format, with predetermined end results set fo
 
 ## changes
 - After extensive attempts at running a python script that takes user input from a PHP website running on an apache server on Windows, it's too difficult.
-- I managed to get to the point where it was possible to go to localhost:test.py, but could not insert that same test.py into a <div> within my website where I wanted it to run.
+- I managed to get to the point where it was possible to go to localhost/test.py, but could not insert that same test.py into a <div> within my website where I wanted it to run.
 - I am reverting to a standalone Python program that will serve the same purpose.
